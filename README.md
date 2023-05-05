@@ -1,4 +1,4 @@
-### Weather App using React
+# Weather App using React
 This is a simple weather app built using React and the OpenWeatherMap API.
 
 ## Installation
